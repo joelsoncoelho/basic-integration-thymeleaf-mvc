@@ -1,0 +1,1 @@
+insert into medicos (id, nome, email, crm, especialidade, logradouro, bairro, cep, complemento, numero, uf, cidade, telefone, ativo) values (1, 'Jon Snow', 'snow@gmail', '1234', 'CARDIOLOGIA', '75 PARK PLACE 8TH', 'FLOOR', '100013463','', '8','NY','NEW YORK', '99999-9999', 1);
